@@ -1,4 +1,4 @@
-# -Data-Structures-and-Strings-in-Python
+# Data-Structures-and-Strings-in-Python
 
 This repository contains two Python scripts as part of basic programming practice:
 
